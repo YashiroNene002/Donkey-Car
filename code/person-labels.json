@@ -1,0 +1,13 @@
+
+{
+    "detection_threshold": 0.8,
+    "max_boxes":10,
+    "labels": [
+      "unlabeled",
+      "traffic light green",
+      "traffic light red",
+      "traffic light yellow",
+      "person",
+      "traffic light"
+    ]
+}
